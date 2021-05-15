@@ -1,0 +1,285 @@
+{
+  "home": [
+   {
+      "name": "Large Pack",
+      "cost": 2000,
+      "description": "Unlocks the 2nd row of inventory (12 more slots, total 24).",
+      "src": "Backpack.png"
+    },
+     {
+      "name": "Deluxe Pack",
+      "cost": 10000,
+      "description": "Unlocks the 3rd row of inventory (12 more slots, total 36).",
+      "src": "36_Backpack.png"
+    },
+   {
+      "name": "Catalogue",
+      "cost": 30000,
+      "description": "Provides unlimited access to all wallpapers and floors... from the convenience of your home!",
+      "src": "Catalogue.png"
+    },
+   {
+      "name": "Flooring",
+      "cost": 100,
+      "description": "Decorates the floor of one room.",
+      "src": "Flooring_01_Icon.png"
+    },
+     {
+      "name": "Oil",
+      "cost": 200,
+      "description": "All purpose cooking oil.",
+      "src": "Oil.png"
+    },
+     {
+      "name": "Rice",
+      "cost": 200,
+      "description": "A basic grain often served under vegetables.",
+      "src": "Rice.png"
+    },
+     {
+      "name": "sugar",
+      "cost": 100,
+      "description": "Adds sweetness to pastries and candies. Too much can be unhealthy.",
+      "src": "Sugar.png"
+    },
+     {
+      "name": "Vinegar",
+      "cost": 200,
+      "description": "An aged fermented liquid used in many cooking recipes.",
+      "src": "Vinegar.png"
+    },
+    {
+      "name": "Wheat Flour",
+      "cost": 100,
+      "description": "A common cooking ingredient made from crushed wheat seeds.",
+      "src": "Wheat_Flour.png"
+    }
+  ],
+  "seeds": [
+     {
+      "name": "Amaranth Seeds",
+      "cost": 70,
+      "description": "Plant these in the fall. Takes 7 days to grow. Harvest with the scythe.",
+      "src": "Amaranth_Seeds.png",
+      "season": "fall"
+    },
+     {
+      "name": "Artichoke Seeds",
+      "cost": 30,
+      "description": "Plant these in the fall. Takes 8 days to mature.",
+      "src": "Artichoke_Seeds.png",
+      "season": "fall"
+    },
+     {
+      "name": "Bean Starter",
+      "cost": 60,
+      "description": "Plant these in the spring. Takes 10 days to mature, but keeps producing after that. Grows on a trellis.",
+      "src": "Bean_Starter.png",
+      "season": "spring"
+    },
+     {
+      "name": "Bok Choy Seads",
+      "cost": 50,
+      "description": "Plant these in the fall. Takes 4 days to mature.",
+      "src": "Bok_Choy_Seeds.png"
+    },
+     {
+      "name": "Cauliflower Seeds",
+      "cost": 80,
+      "description": "Plant these in the spring. Takes 12 days to produce a large cauliflower.",
+      "src": "Cauliflower_Seeds.png",
+      "season": "spring"
+    },
+     {
+      "name": "Corn Seeds",
+      "cost": 150,
+      "description": "Plant these in the summer or fall. Takes 14 days to mature, and continues to produce after first harvest.",
+      "src": "Corn_Seeds.png",
+      "season": "summer"
+    },
+   {
+      "name": "Cranberry Seeds",
+      "cost": 240,
+      "description": "Plant these in the fall. Takes 7 days to mature, and continues to produce after first harvest.",
+      "src": "Cranberry_Seeds.png",
+      "season": "fall"
+    },
+     {
+      "name": "Eggplant Seeds",
+      "cost": 20,
+      "description": "Plant these in the fall. Takes 5 days to mature, and continues to produce after first harvest.",
+      "src": "Eggplant_Seeds.png",
+      "season": "fall"
+    },
+     {
+      "name": "Fairy Seeds",
+      "cost": 200,
+      "description": "Plant in fall. Takes 12 days to produce a mysterious flower. Assorted Colors.",
+      "src": "Fairy_Seeds.png",
+      "season": "fall"
+    },
+     {
+      "name": "Garlic Seeds",
+      "cost": 40,
+      "description": "Plant these in the spring. Takes 4 days to mature.",
+      "src": "Garlic_Seeds.png",
+      "season": "spring"
+    },
+     {
+      "name": "Grape Starter",
+      "cost": 60,
+      "description": "Plant these in the fall. Takes 10 days to grow, but keeps producing after that. Grows on a trellis.",
+      "src": "Grape_Starter.png",
+      "season": "fall"
+    },
+     {
+      "name": "Jazz Seeds",
+      "cost": 30,
+      "description": "Plant in spring. Takes 7 days to produce a blue puffball flower.",
+      "src": "Jazz_Seeds.png",
+      "season": "spring"
+    },
+     {
+      "name": "Kale Seeds",
+      "cost": 70,
+      "description": "Plant these in the spring. Takes 6 days to mature. Harvest with the scythe.",
+      "src": "Kale_Seeds.png",
+      "season": "spring"
+    },
+     {
+      "name": "Parsnip Seeds",
+      "cost": 20,
+      "description": "Plant these in the spring. Takes 4 days to mature.",
+      "src": "Parsnip_Seeds.png",
+      "season": "spring"
+    },
+    {
+      "name": "Potato Seeds",
+      "cost": 200,
+      "description": "Plant these in the spring. Takes 6 days to mature, and has a chance of yielding multiple potatoes at harvest.",
+      "src": "Potato_Seeds.png",
+      "season": "spring"
+    },
+     {
+      "name": "Pumpkin Seeds",
+      "cost": 100,
+      "description": "Plant these in the fall. Takes 13 days to mature.",
+      "src": "Pumpkin_Seeds.png",
+      "season": "fall"
+    },
+ {
+      "name": "Sunflower Seeds",
+      "cost": 200,
+      "description": "Plant in summer or fall. Takes 8 days to produce a large sunflower. Yields more seeds at harvest.",
+      "src": "Sunflower_Seeds.png",
+      "season": "summer"
+    },
+     {
+      "name": "Tulip Seeds",
+      "cost": 20,
+      "description": "Plant in spring. Takes 6 days to produce a colorful flower. Assorted colors.",
+      "src": "Tulip_Bulb.png",
+      "season": "spring"
+    },
+     {
+      "name": "Wheat Seeds",
+      "cost": 10,
+      "description": "Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.",
+      "src": "Wheat_Seeds.png",
+      "season": "summer"
+    },
+     {
+      "name": "Yam Seeds",
+      "cost": 60,
+      "description": "Plant these in the fall. Takes 10 days to mature.",
+      "src": "Yam_Seeds.png",
+      "season": "fall"
+    }
+  ],
+  "other": [
+     {
+      "name": "Apple Sapling",
+      "cost": 4000,
+      "description": "Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding 'tiles' are empty.",
+      "src": "Apple_Sapling.png",
+      "season": "fall"
+    },
+     {
+      "name": "Apricot Sapling",
+      "cost": 2000,
+      "description": "Takes 28 days to produce a mature Apricot tree. Bears fruit in the spring. Only grows if the 8 surrounding 'tiles' are empty.",
+      "src": "Apricot_Sapling.png",
+      "season": "spring"
+    },
+    {
+      "name": "Basic Fertilizer",
+      "cost": 100,
+      "description": "Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.",
+      "src": "Basic_Fertilizer.png"
+    },
+     {
+      "name": "Basic Retaining Soil",
+      "cost": 100,
+      "description": "This soil has a chance of staying watered overnight. Mix into tilled soil.",
+      "src": "Basic_Retaining_Soil.png"
+    },
+     {
+      "name": "Cherry Sapling",
+      "cost": 3400,
+      "description": "Takes 28 days to produce a mature Cherry tree. Bears fruit in the spring. Only grows if the 8 surrounding 'tiles' are empty.",
+      "src": "Cherry_Sapling.png",
+      "season": "spring"
+    },
+   {
+      "name": "Deluxe Speed-Gro",
+      "cost": 200,
+      "description": "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.",
+      "src": "Deluxe_Speed-Gro.png"
+    },
+     {
+      "name": "Grass Starter",
+      "cost": 100,
+      "description": "Place this on your farm to start a new patch of grass.",
+      "src": "Grass_Starter.png"
+    },
+     {
+      "name": "Orange Sapling",
+      "cost": 4000,
+      "description": "Takes 28 days to produce a mature Orange tree. Bears fruit in the summer. Only grows if the 8 surrounding 'tiles' are empty.",
+      "src": "Orange Sapling.png",
+      "season": "summer"
+    },
+     {
+      "name": "Peach Sapling",
+      "cost": 6000,
+      "description": "Takes 28 days to produce a mature Peach tree. Bears fruit in the summer. Only grows if the 8 surrounding 'tiles' are empty.",
+      "src": "Peach_Sapling.png",
+      "season": "summer"
+    },
+    {
+      "name": "Pomegranate Sapling",
+      "cost": 6000,
+      "description": "Takes 28 days to produce a mature Pomegranate tree. Bears fruit in the fall. Only grows if the 8 surrounding 'tiles' are empty.",
+      "src": "Pomegranate_Sapling.png",
+      "season": "fall"
+    },
+     {
+      "name": "Quality Fertilizer",
+      "cost": 150,
+      "description": "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
+      "src": "Quality_Fertilizer.png"
+    },
+     {
+      "name": "Quality Retaining Soil",
+      "cost": 150,
+      "description": "This soil has a good chance of staying watered overnight. Mix into tilled soil.",
+      "src": "Quality_Retaining_Soil.png"
+    },
+    {
+      "name": "Speed-Gro",
+      "cost": 100,
+      "description": "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.",
+      "src": "Speed-Gro.png"
+    }
+  ]
+}
